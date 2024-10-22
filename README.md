@@ -1,6 +1,5 @@
 ### 
-My name is Ram Gudur. I'm 19 years old. My house is in the northeast section of Morio-
-Nevermind that. 
+My name is Ram Gudur.
 
 <!--
 **ramgudur/ramgudur** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
