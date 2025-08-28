@@ -3,7 +3,7 @@ My name is Ram Gudur-- I'm a Junior studying Computer Science at UT Dallas.
 I'm super interested in cloud computing, big data analytics, and finding specific, practical uses for artificial intelligence.
 I'm currently interning at Brillio as an AI/ML Intern.
 
-Right now, I'm focused on MCP, data engineering (from lead gathering to analytics), and cloud architecture.
+Right now, I'm focused on MCP, data engineering (lead generation, web scraping, analytics, etc.), and cloud architecture.
 
 <!--
 **ramgudur/ramgudur** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
