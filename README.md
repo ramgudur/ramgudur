@@ -1,7 +1,8 @@
 ### 
 My name is Ram Gudur-- I'm a Junior studying Computer Science at UT Dallas.
 I'm super interested in cloud computing, big data analytics, and finding specific, practical uses for artificial intelligence.
-I'm currently interning at Brillio as an AI/ML Intern.
+
+I'm currently a Project Manager and Education Lead at ACM UTD, where I guide students through the SDLC from front to back, and teach them essential DSA concepts to strengthen technical interview skills.
 
 Right now, I'm focused on MCP, data engineering (lead generation, web scraping, analytics, etc.), and cloud architecture.
 
