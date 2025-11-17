@@ -1,6 +1,6 @@
 ### 
 My name is Ram Gudur-- I'm a Junior studying Computer Science at UT Dallas.
-I'm super interested in cloud computing, big data analytics, and finding specific, practical uses for artificial intelligence.
+I'm super interested in cloud computing, agentic AI, and finding specific, practical uses for artificial intelligence.
 
 I'm currently a Project Manager and Education Lead at ACM UTD, where I guide students through the SDLC from front to back, and teach them essential DSA concepts to strengthen technical interview skills.
 
