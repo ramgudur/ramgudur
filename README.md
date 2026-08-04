@@ -2,7 +2,7 @@
 My name is Ram Gudur-- I'm a Junior studying Computer Science at UT Dallas.
 I'm super interested in cloud computing, agentic AI, and finding specific, practical uses for artificial intelligence.
 
-I'm currently a Project Manager and Education Lead at ACM UTD, where I guide students through the SDLC from front to back, and teach them essential DSA concepts to strengthen technical interview skills.
+I'm currently the Director of the Projects division at ACM UTD, the program where groups of students work and compete through the SDLC from front to back, learning skills on essential DSA concepts, modern development practices, and connect to successful peers in our university.
 
 Right now, I'm focused on MCP, data engineering (lead generation, web scraping, analytics, etc.), and cloud architecture.
 
